@@ -1,30 +1,16 @@
-# 100 Days Of Code - Log
+# 100 Days Of Code - Schaxmann's Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 1: Friday 28 September, 2018
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress:** Signed up for GitHub, StackOverflow, 100-days-of-code Slack, FreeCodeCamp and LinkedIn. Completed GitHub "Hello World" tutorial. Created a fork for 100-days of code for logging purposes. Completed FCC New Coder Survey 2018 and then went on to finish "Introduction to Basic HTML and HTML5" section of FCC curriculum. Finally, of course, completed this log.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** It was nice to reacquaint myself with basic HTML skills which definitely needed revisiting given that I'd forgotten some of the information from the Myspace days. Feels good to make a solid start on my webdev journey, to stop procrastinating and put in a good hour of focussed and undisturbed work on something that I genuinely want to do. V. different to the drudgery of completing work during my degree. Also nice to join a set of websites where I can focus my attention rather than jumping all over the place which is something I can tend to do.
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** [Survey](https://fcc.im/2018-new-coder-survey)
+[FCC](https://learn.freecodecamp.org/responsive-web-design/basic-html-and-html5)
+[GitHub Profile](https://github.com/schaxmann)
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+**Next Steps:**
+-Immerse myself in more general webdev articles, videos and lectures.
+-Start "Basic CSS" track on FCC.
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
