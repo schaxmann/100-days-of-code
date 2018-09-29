@@ -33,6 +33,3 @@ Slightly more frustrating than yesterday because I'm less familiar with CSS as o
 -Continue to immerse myself in more general webdev articles, videos and lectures. <br>
 -Start "Applied Visual Design" track on FCC.<br>
 -Plough on with 100 days of code.
-
-
-https://learn.freecodecamp.org/responsive-web-design/basic-css
