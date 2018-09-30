@@ -40,7 +40,7 @@ Slightly more frustrating than yesterday because I'm less familiar with CSS as o
 Started "Applied Visual Design" section of FCC curriculum and completed first 35 tasks. Watched a few youtube videos about other people's journeys in learning to code. Finally, of course, completed this log.
 
 **Thoughts:** <br>
-Enjoyed more than yesterday as it felt like I was finally learning totally new information which was quite rewarding. Also appreciated the fact that some of this track was more design-centric. Therefore some of the things I was actually learning to control using CSS actually looked visually appealing rather than some geocities-looking markup.
+Enjoyed more than yesterday as it felt like I was finally learning totally new information which was quite rewarding. Also appreciated the fact that some of this track was more design-centric. Therefore some of the things I was learning to control using CSS actually looked visually appealing rather than some geocities-looking markup.
 
 **Link to work:** <br>
 [FCC](https://learn.freecodecamp.org/responsive-web-design/applied-visual-design) <br>
