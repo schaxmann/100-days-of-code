@@ -33,3 +33,20 @@ Slightly more frustrating than yesterday because I'm less familiar with CSS as o
 -Continue to immerse myself in more general webdev articles, videos and lectures. <br>
 -Start "Applied Visual Design" track on FCC.<br>
 -Plough on with 100 days of code.
+
+### Day 3: Sunday 30th September, 2018
+
+**Today's Progress:** <br>
+Started "Applied Visual Design" section of FCC curriculum and completed first 35 tasks. Watched a few youtube videos about other people's journeys in learning to code. Finally, of course, completed this log.
+
+**Thoughts:** <br>
+Enjoyed more than yesterday as it felt like I was finally learning totally new information which was quite rewarding. Also appreciated the fact that some of this track was more design-centric. Therefore some of the things I was actually learning to control using CSS actually looked visually appealing rather than some geocities-looking markup.
+
+**Link to work:** <br>
+[FCC](https://learn.freecodecamp.org/responsive-web-design/applied-visual-design) <br>
+[GitHub Profile](https://github.com/schaxmann)
+
+**Next Steps:** <br>
+-Continue to immerse myself in more general webdev articles, videos and lectures. <br>
+-Complete "Applied Visual Design" track on FCC.<br>
+-Plough on with 100 days of code.
