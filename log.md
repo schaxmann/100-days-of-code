@@ -49,4 +49,5 @@ Enjoyed more than yesterday as it felt like I was finally learning totally new i
 **Next Steps:** <br>
 -Continue to immerse myself in more general webdev articles, videos and lectures. <br>
 -Complete "Applied Visual Design" track on FCC.<br>
--Plough on with 100 days of code.
+-Plough on with 100 days of code.<br>
+-Detatch this repo from its fork so my contributions show up on my graph.
