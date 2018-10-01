@@ -51,3 +51,21 @@ Enjoyed more than yesterday as it felt like I was finally learning totally new i
 -Complete "Applied Visual Design" track on FCC.<br>
 -Plough on with 100 days of code.<br>
 -Detatch this repo from its fork so my contributions show up on my graph.
+
+### Day 4: Monday 1st October, 2018
+
+**Today's Progress:** <br>
+Completed "Applied Visual Design" section of FCC curriculum. Watched a few youtube videos centerred around web dev topics to try and acquaint myself more with the general happenings and trends in the field. Finally, of course, completed this log.
+
+**Thoughts:** <br>
+I was tired, with work and friend's Birthday it was all a bit mad, didn't manage to start till super late. Still pleased I find myself sitting here and doing it though. Demonstrates to me how important it is to commit to something like this challenge. Admittedly I didn't follow all the rules and haven't told anyone I'm doing it, but in a way I almost feel like that's more rewarding; just skilling up on the sly
+
+**Link to work:** <br>
+[FCC](https://learn.freecodecamp.org/responsive-web-design/applied-visual-design) <br>
+[GitHub Profile](https://github.com/schaxmann)
+
+**Next Steps:** <br>
+-Continue to immerse myself in more general webdev articles, videos and lectures. <br>
+-Start "Applied Accesibility" track on FCC.<br>
+-Plough on with 100 days of code.<br>
+-Still need to Detatch this repo from its fork so my contributions show up on my graph.
