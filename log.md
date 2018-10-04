@@ -58,7 +58,7 @@ Enjoyed more than yesterday as it felt like I was finally learning totally new i
 Completed "Applied Visual Design" section of FCC curriculum. Watched a few youtube videos centerred around web dev topics to try and acquaint myself more with the general happenings and trends in the field. Finally, of course, completed this log.
 
 **Thoughts:** <br>
-I was tired, with work and friend's Birthday it was all a bit mad, didn't manage to start till super late. Still pleased I find myself sitting here and doing it though. Demonstrates to me how important it is to commit to something like this challenge. Admittedly I didn't follow all the rules and haven't told anyone I'm doing it, but in a way I almost feel like that's more rewarding; just skilling up on the sly
+I was tired, with work and friend's Birthday it was all a bit mad, didn't manage to start till super late. Still pleased I find myself sitting here and doing it though. Demonstrates to me how important it is to commit to something like this challenge. Admittedly I didn't follow all the rules and haven't told anyone I'm doing it, but in a way I almost feel like that's more rewarding; just skilling up on the sly.
 
 **Link to work:** <br>
 [FCC](https://learn.freecodecamp.org/responsive-web-design/applied-visual-design) <br>
@@ -69,3 +69,23 @@ I was tired, with work and friend's Birthday it was all a bit mad, didn't manage
 -Start "Applied Accesibility" track on FCC.<br>
 -Plough on with 100 days of code.<br>
 -Still need to Detatch this repo from its fork so my contributions show up on my graph.
+
+### Day 5: Wednesday 2nd October, 2018
+
+**Today's Progress:** <br>
+Got halfway through "Applied Accesibility" section of FCC curriculum. Watched more youtube videos centerred around web dev and although its a more passive version of learning, I do want to make this a keystone habit so I can keep up with current trends. Finally, of course, completed this log.
+
+**Thoughts:** <br>
+I dun fucked up and missed Tuesdays progress. I thought about starting again with the 100 days so it was continous and then I thought 'fuck it'. I'm just gonna carry on and get 100 days code under my belt, continuous or otherwise. I really should have perhaps done more to try and make up for lost time but I don't want to burn myself out and quit so I didn't finish as much as I would have liked but who cares, this is for me, nobody else. 
+
+**Link to work:** <br>
+[FCC](https://learn.freecodecamp.org/responsive-web-design/applied-accessibility/) <br>
+[GitHub Profile](https://github.com/schaxmann)
+
+**Next Steps:** <br>
+-Continue to immerse myself in more general webdev articles, videos and lectures. <br>
+-Finish "Applied Accesibility" track on FCC.<br>
+-Plough on with 100 days of code.<br>
+-Still need to Detatch this repo from its fork so my contributions show up on my graph.
+
+
