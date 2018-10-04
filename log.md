@@ -70,7 +70,7 @@ I was tired, with work and friend's Birthday it was all a bit mad, didn't manage
 -Plough on with 100 days of code.<br>
 -Still need to Detatch this repo from its fork so my contributions show up on my graph.
 
-### Day 5: Wednesday 2nd October, 2018
+### Day 5: Wednesday 3rd October, 2018
 
 **Today's Progress:** <br>
 Got halfway through "Applied Accesibility" section of FCC curriculum. Watched more youtube videos centerred around web dev and although its a more passive version of learning, I do want to make this a keystone habit so I can keep up with current trends. Finally, of course, completed this log.
@@ -88,4 +88,20 @@ I dun fucked up and missed Tuesdays progress. I thought about starting again wit
 -Plough on with 100 days of code.<br>
 -Still need to Detatch this repo from its fork so my contributions show up on my graph.
 
+### Day 6: Thursday 4th October, 2018
 
+**Today's Progress:** <br>
+Finished "Applied Accesibility" section of FCC curriculum. Watched more youtube videos. Finally, of course, completed this log.
+
+**Thoughts:** <br>
+Back to consecutive days so feel glad to be back on the horse. Today's challenges were kinda boring can't lie because I enjoy the creative element of web dev and learning about accesibility for screen readers etc doesn't really feel like that. However, I do appreciate that implementation of these elements is important for impaired users. I also was tempted to do the "Responsive Web Design Principles" track because it's so short but I figured I'll leave it for tomorrow because I think it's more likely to get me back to the computer if I think I've got a nice short track to kick things off with. 
+
+**Link to work:** <br>
+[FCC](https://learn.freecodecamp.org/responsive-web-design/applied-accessibility/) <br>
+[GitHub Profile](https://github.com/schaxmann)
+
+**Next Steps:** <br>
+-Continue to immerse myself in more general webdev articles, videos and lectures. <br>
+-Do "Responsive Web Design Principles" track on FCC.<br>
+-Plough on with 100 days of code.<br>
+-Still need to Detatch this repo from its fork so my contributions show up on my graph.
