@@ -105,3 +105,22 @@ Back to consecutive days so feel glad to be back on the horse. Today's challenge
 -Do "Responsive Web Design Principles" track on FCC.<br>
 -Plough on with 100 days of code.<br>
 -Still need to Detatch this repo from its fork so my contributions show up on my graph.
+
+### Day 7: Monday 8th October, 2018
+
+**Today's Progress:** <br>
+Finished "Responsive Web Design Principles" and "CSS Flexbox" sections of FCC curriculum. Watched more youtube videos. Finally, of course, completed this log.
+
+**Thoughts:** <br>
+Fucked it a bit again. Oh well. Today was quite good but I'm starting to worry about cementing my knowledge. Fingers crossed I can do that by completing the challenges at the end of the certification but I'm a bit worried I won't remember shit. If worst comes to I'll go over it all again to cement the knowledge but we'll see how it goes, maybe I should make some cheat cards? Itching to get started on the challenges because they seem a bit more creative and independent rather than the hand-guided learning of the lessons.
+
+**Link to work:** <br>
+[FCC](https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-principles/) <br>
+[FCC](https://learn.freecodecamp.org/responsive-web-design/css-flexbox/) <br>
+[GitHub Profile](https://github.com/schaxmann)
+
+**Next Steps:** <br>
+-Continue to immerse myself in more general webdev articles, videos and lectures. <br>
+-Do "CSS Grid" track on FCC.<br>
+-Plough on with 100 days of code.<br>
+-Still need to Detatch this repo from its fork so my contributions show up on my graph.
