@@ -106,21 +106,20 @@ Back to consecutive days so feel glad to be back on the horse. Today's challenge
 -Plough on with 100 days of code.<br>
 -Still need to Detatch this repo from its fork so my contributions show up on my graph.
 
-### Day 7: Monday 8th October, 2018
+### Day 8: Tuesday 9th October, 2018
 
 **Today's Progress:** <br>
-Finished "Responsive Web Design Principles" and "CSS Flexbox" sections of FCC curriculum. Watched more youtube videos. Finally, of course, completed this log.
+Finished "CSS Grid" section of FCC curriculum. Finally, of course, completed this log.
 
 **Thoughts:** <br>
-Fucked it a bit again. Oh well. Today was quite good but I'm starting to worry about cementing my knowledge. Fingers crossed I can do that by completing the challenges at the end of the certification but I'm a bit worried I won't remember shit. If worst comes to I'll go over it all again to cement the knowledge but we'll see how it goes, maybe I should make some cheat cards? Itching to get started on the challenges because they seem a bit more creative and independent rather than the hand-guided learning of the lessons.
+Finally back on a bit of a streak. I enjoyed today because CSS grid seems quite powerful in comparison to some of the stuff I've been learning and as a result was a little more interesting. I can only imagine this will continue moving forward. I was already imagining creative ways I might be able to use this technique. However, I am a little apprehensive about the projects moving forward because I know how much referring back to the lessons they are going to take. In the long run, though, I know this will help cement the things that I have learned.
 
 **Link to work:** <br>
-[FCC](https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-principles/) <br>
-[FCC](https://learn.freecodecamp.org/responsive-web-design/css-flexbox/) <br>
+[FCC](https://learn.freecodecamp.org/responsive-web-design/css-grid/) <br>
 [GitHub Profile](https://github.com/schaxmann)
 
 **Next Steps:** <br>
 -Continue to immerse myself in more general webdev articles, videos and lectures. <br>
--Do "CSS Grid" track on FCC.<br>
+-Do "Responsive Web Design Project #1" on FCC.<br>
 -Plough on with 100 days of code.<br>
 -Still need to Detatch this repo from its fork so my contributions show up on my graph.
